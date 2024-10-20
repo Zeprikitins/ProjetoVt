@@ -1,8 +1,8 @@
-package cobra;
+package modelo;
 
 import java.util.Date;
 
-import animal.Animal;
+import modelo.Animal;
 
 public class Cobra extends Animal{
 
